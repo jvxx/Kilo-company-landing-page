@@ -1,0 +1,92 @@
+* {
+  font-family: 'Muli', sans-serif;
+  color: black;
+}
+
+a {
+  text-decoration: none;
+  font-size: 15px;
+  color: #8333FF;
+}
+
+a:hover {
+  color: black;
+  text-decoration: underline;
+}
+
+ul {
+  display: flex;
+  flex: 1;
+  font-size: 10px;
+  color: #8333FF;
+  background-color: #33FFCE;
+}
+
+li {
+  list-style-type: none;
+  margin: 0 auto;
+  padding: 10px;
+  width: 100px;
+}
+
+h1 {
+   font-family: 'Gamja Flower', cursive;
+   font-size: 45px;
+   text-align: center;
+   color: white;
+   background-color: grey;
+   width: 180px;
+   margin: 0 auto;
+   margin-top: 40px;
+   margin-bottom: 30px;
+   padding-bottom: 10px;
+}
+
+h2 {
+  font-size: 25px;
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+input,
+label,
+textarea {
+  display: block;
+  margin: 0 auto;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  width: 200px;
+}
+
+textarea {
+  padding-bottom: 30px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+legend {
+  font-size: 20px;
+  color: #8333FF;
+  text-align: center;
+  background-color: #33FFCE;
+  width: 400px;
+  margin: 0 auto;
+  margin-top: 10px;
+  margin-bottom: 15px;
+  padding: 15px;
+}
+
+button {
+  color: #8333FF;
+  text-align: center;
+  background-color: #33FFCE;
+  margin: 0 auto;
+  padding: 5px;
+  margin-left: 21em;
+  margin-top: 10px;
+}
+
+footer {
+  margin-top: 100px;
+  
+}
